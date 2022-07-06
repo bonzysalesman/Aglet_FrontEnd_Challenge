@@ -1,0 +1,74 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/Flaticon.eot");
+	src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+	 url("../fonts/Flaticon.woff") format("woff"),
+	 url("../fonts/Flaticon.ttf") format("truetype"),
+	 url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+}
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {	 
+	font-family: Flaticon;
+	font-style: normal;
+}
+
+.flaticon-analytics:before {
+content: "\f100";
+}
+.flaticon-check-mark:before { content: "\f101"; }
+.flaticon-idea:before { content: "\f102"; }
+.flaticon-picture:before { content: "\f103"; }
+.flaticon-metrics:before { content: "\f104"; }
+.flaticon-idea-1:before { content: "\f105"; }
+.flaticon-preview:before { content: "\f106"; }
+.flaticon-editor:before { content: "\f107"; }
+.flaticon-creative:before { content: "\f108"; }
+.flaticon-notes:before { content: "\f109"; }
+.flaticon-working:before { content: "\f10a"; }
+.flaticon-options:before { content: "\f10b"; }
+.flaticon-magic-wand:before { content: "\f10c"; }
+.flaticon-start:before { content: "\f10d"; }
+.flaticon-setting:before { content: "\f10e"; }
+.flaticon-target:before { content: "\f10f"; }
+.flaticon-strategy:before { content: "\f110"; }
+.flaticon-strategy-1:before { content: "\f111"; }
+.flaticon-people:before { content: "\f112"; }
+.flaticon-chart:before { content: "\f113"; }
+.flaticon-quality:before { content: "\f114"; }
+.flaticon-handshake:before { content: "\f115"; }
+.flaticon-domain-registration:before { content: "\f116"; }
+.flaticon-briefcase:before { content: "\f117"; }
+.flaticon-translation:before { content: "\f118"; }
+.flaticon-targeting:before { content: "\f119"; }
+.flaticon-stats:before { content: "\f11a"; }
+.flaticon-umbrella:before { content: "\f11b"; }
+.flaticon-wizard:before { content: "\f11c"; }
+.flaticon-time:before { content: "\f11d"; }
+.flaticon-layer:before { content: "\f11e"; }
+.flaticon-layers:before { content: "\f11f"; }
+.flaticon-worker:before { content: "\f120"; }
+.flaticon-right-arrow-circular-button:before { content: "\f121"; }
+.flaticon-plus-button:before { content: "\f122"; }
+.flaticon-right-arrow-circular-button-1:before { content: "\f123"; }
+.flaticon-next-page:before { content: "\f124"; }
+.flaticon-back-arrow-circular-symbol:before { content: "\f125"; }
+.flaticon-add:before { content: "\f126"; }
+.flaticon-plus:before { content: "\f127"; }
+.flaticon-button:before { content: "\f128"; }
+.flaticon-left-chevron:before { content: "\f129"; }
+.flaticon-back:before { content: "\f12a"; }
+.flaticon-sketch:before { content: "\f12b"; }
+.flaticon-helmet:before { content: "\f12c"; }
+.flaticon-energy-saving:before { content: "\f12d"; }
+.flaticon-drawing:before { content: "\f12e"; }
+.flaticon-construction-and-tools:before { content: "\f12f"; }
